@@ -1,5 +1,5 @@
 {
-  "name": "subway-ridership",
+  "name": "Visualization of daily NYC subway ridership",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,6 +24,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "deploy": "git add . && git commit -m Build && git push",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

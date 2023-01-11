@@ -1,3 +1,33 @@
+# subway-ridership-nyc-react-mapbox
+
+# 🚀 Visualization of daily NYC subway ridership 🚀
+
+https://github.com/coding-to-music/subway-ridership-nyc-react-mapbox
+
+https://subway-ridership-nyc-react-mapbox.vercel.app
+
+From / By https://github.com/blahblahblah-/subway-ridership
+
+https://www.subwayridership.nyc
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/subway-ridership-nyc-react-mapbox.git
+git push -u origin main
+```
+
 # NYC Subway Ridership
 
 A frontend-only React app, providing visualization of daily NYC Subway ridership and trends using turnstiles data, inspired by wanting to see the impact of COVID-19 on transit usage. Heavily relies on aggregated daily turnstiles data by [qri](https://qri.cloud). Some front-end elements sampled from [The Weekendest](https://github.com/blahblahblah-/theweekendest/) and [goodservice.io](https://github.com/blahblahblah-/goodservice).
